@@ -10,7 +10,5 @@ Generados con IA en Apimart (gemini-3-pro-image-preview, 0,03 $ cada uno). Son c
 - `iris-agente.jpg`: Iris, estrategia de contenido. Enviado por Patricia el 2026-10-11. Ojo: su cordón es granate, no rojo como el de las demás; en el prompt de vídeo se pide rojo.
 - `lia-agente.jpg`: Lía, producción de contenido. Enviado por Patricia el 2026-10-11.
 - `clara-agente.jpg`: Clara, Meta Ads. Enviado por Patricia el 2026-10-11.
-- Nora y Vera sin pecas: generadas, pendientes de que Patricia las vea. Copia en Higgsfield:
-  - Nora: https://d2ol7oe51mr4n9.cloudfront.net/user_3EmSgwLwZHHoEGu8jEmhGil5128/e951f6e2-5a85-4e50-94e2-9ae8d6517d29.png
-  - Vera: https://d2ol7oe51mr4n9.cloudfront.net/user_3EmSgwLwZHHoEGu8jEmhGil5128/9ec5b763-85c4-458f-96ec-ddcd8df050f7.png
+- `nora-agente-limpia.jpg` y `vera-agente-limpia.jpg`: Nora y Vera con menos pecas y cordón rojo liso, sin letras. Enviadas por Patricia el 2026-10-11. Son las que se usan para vídeo; las capturas originales (`nora-agente.jpg`, `vera-agente.jpg`) se quedan como respaldo.
 - En las tres, el fondo tiene gente desenfocada y la tarjeta con el nombre es blanca (en Nora y Vera es roja). Para vídeo se usa solo la cara y la ropa; el decorado lo marca el prompt.
