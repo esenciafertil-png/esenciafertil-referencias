@@ -21,3 +21,4 @@ Caras inventadas con IA, no personas reales. Patricia pide usar siempre las mism
 
 - `ginecologa.jpg`: la ginecóloga de la primera búsqueda de Patricia (cara inventada con IA, aprobada por Patricia el 2026-10-13). Para "Mi historia, por etapas".
 - `escenario-riviera-playa.jpeg` y `escenario-riviera-cama-balinesa.jpeg`: la playa y las camas balinesas de la luna de miel en la Riviera Maya (fotos de Patricia del 2026-10-13, recortadas sin personas).
+- `objeto-test-clearblue.jpg`: test de embarazo Clearblue (stick blanco con capuchón azul) para las escenas de Mi historia (Patricia, 2026-10-13).
