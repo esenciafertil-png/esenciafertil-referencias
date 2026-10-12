@@ -12,3 +12,9 @@ Generados con IA en Apimart (gemini-3-pro-image-preview, 0,03 $ cada uno). Son c
 - `clara-agente.jpg`: Clara, Meta Ads. Enviado por Patricia el 2026-10-11.
 - `nora-agente-limpia.jpg` y `vera-agente-limpia.jpg`: Nora y Vera con menos pecas y cordón rojo liso, sin letras. Enviadas por Patricia el 2026-10-11. Son las que se usan para vídeo; las capturas originales (`nora-agente.jpg`, `vera-agente.jpg`) se quedan como respaldo.
 - En las tres, el fondo tiene gente desenfocada y la tarjeta con el nombre es blanca (en Nora y Vera es roja). Para vídeo se usa solo la cara y la ropa; el decorado lo marca el prompt.
+
+## Amigas (personajes recurrentes de la serie AUTÓNOMA, 2026-10-12)
+Caras inventadas con IA, no personas reales. Patricia pide usar siempre las mismas.
+- `amiga-enfermera.jpg`: amiga enfermera que prepara la oposición (Ep. 06 de AUTÓNOMA). Media melena rubia ondulada, sin gafas, cazadora vaquera. Generada en Apimart el 12-10.
+- `amiga-rizos.jpg`: amiga de pelo corto rizado rubio, jersey verde agua. Ya usada en otros vídeos (fotograma de un vídeo; a la izquierda asoma otra persona).
+- `amiga-pelo-liso.jpg`: amiga de pelo largo liso castaño, jersey verde oliva. Ya usada en otros vídeos (fotograma de un vídeo; a la izquierda asoma otra persona).
