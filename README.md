@@ -18,3 +18,6 @@ Caras inventadas con IA, no personas reales. Patricia pide usar siempre las mism
 - `amiga-enfermera.jpg`: amiga enfermera que prepara la oposición (Ep. 06 de AUTÓNOMA). Media melena rubia ondulada, sin gafas, cazadora vaquera. Generada en Apimart el 12-10.
 - `amiga-rizos.jpg`: amiga de pelo corto rizado rubio, jersey verde agua. Ya usada en otros vídeos (fotograma de un vídeo; a la izquierda asoma otra persona).
 - `amiga-pelo-liso.jpg`: amiga de pelo largo liso castaño, jersey verde oliva. Ya usada en otros vídeos (fotograma de un vídeo; a la izquierda asoma otra persona).
+
+- `ginecologa.jpg`: la ginecóloga de la primera búsqueda de Patricia (cara inventada con IA, aprobada por Patricia el 2026-10-13). Para "Mi historia, por etapas".
+- `escenario-riviera-playa.jpeg` y `escenario-riviera-cama-balinesa.jpeg`: la playa y las camas balinesas de la luna de miel en la Riviera Maya (fotos de Patricia del 2026-10-13, recortadas sin personas).
