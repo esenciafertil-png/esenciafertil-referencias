@@ -20,6 +20,7 @@ Caras inventadas con IA, no personas reales. Patricia pide usar siempre las mism
 - `amiga-pelo-liso.jpg`: amiga de pelo largo liso castaño, jersey verde oliva. Ya usada en otros vídeos (fotograma de un vídeo; a la izquierda asoma otra persona).
 
 - `ginecologa.jpg`: la ginecóloga de la primera búsqueda de Patricia (cara inventada con IA, aprobada por Patricia el 2026-10-13). Para "Mi historia, por etapas".
+- `endocrino.jpg`: el endocrino de Patricia al final de su primer embarazo (cara inventada con IA, opción B elegida por Patricia el 2026-10-14). Hombre de unos 50 años, pelo castaño corto con canas en las sienes, gafas rectangulares de pasta negra fina, sin barba, bata blanca sobre camisa azul clara. Para "Mi historia, por etapas".
 - `escenario-riviera-playa.jpeg` y `escenario-riviera-cama-balinesa.jpeg`: la playa y las camas balinesas de la luna de miel en la Riviera Maya (fotos de Patricia del 2026-10-13, recortadas sin personas).
 - `objeto-test-clearblue.jpg`: test de embarazo Clearblue NEGATIVO (una sola raya), stick blanco con capuchón azul, para las escenas de Mi historia (Patricia, 2026-10-13; sustituye a la primera foto, que mostraba dos rayas y hacía que la IA pintara positivos).
 - `escenario-salon.jpeg`: salón de casa para las escenas de las dos series (sofá chaise longue beige, mueble de TV con panel de listones de madera y luz cálida, mesa de centro redonda de madera, alfombra clara y ventanal con cortinas). Enviado por Patricia el 2026-10-14.
